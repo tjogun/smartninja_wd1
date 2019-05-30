@@ -1,0 +1,50 @@
+h1 {
+    background-color: red;
+    color: blue
+}
+
+#naslov {
+    color: white;
+    float: left;
+}
+
+#naslov2 {
+    color: yellow;
+    font-size: 30pt;
+    float: right;
+}
+
+#naslov3 {
+    color: brown;
+    font-size: 20px;
+}
+
+.opcenito {
+    background-color: #CCCCCC
+}
+
+p {
+    color: blue;
+    font-family: verdana;
+}
+
+
+#crveni {
+    color: red;
+}
+
+#crveni_lijevi {
+    color: red;
+    float: left;
+}
+
+#crveni_lijevi:hover {
+    background-color: yellow;
+    color: black;
+    float: left;
+}
+
+#zeleni_desni {
+    color: green;
+    float: right;
+}
